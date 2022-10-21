@@ -147,9 +147,9 @@ main {
 }
 .cart-link:hover {
   background-color: transparent;
-  border: 2px solid red;
+  border: 2px solid rgb(9, 255, 0);
   cursor: pointer;
-  color: rgb(255, 0, 0);
+  color: rgb(9, 255, 0);
 }
 .parag {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
